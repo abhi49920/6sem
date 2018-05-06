@@ -1,0 +1,132 @@
+#outer{height:1890px;width:1339px;border:1px solid white;background-color:white;}
+	#header{height:150px;width:1338px;border:1px solid white;background-color:white;}
+			#header1{height:100px;width:385px;border:0px solid white;background-color:white;float:left;padding-top:48px;padding-left:60px;}
+			#header2{height:148px;width:545px;border:0px solid white;background-color:white;float:left;}
+					#header21{height:40px;width:245px;border:0px solid blue;background-color:white;color:blue;padding-top:56px;padding-left:300;float:left;font-size:34;}
+					#header22{height:48px;width:395px;border:0px solid blue;color:blue;background-color:white;float:left;padding-left:250;}
+			#header3{height:80px;width:343px;border:0px solid red;background-color:white;float:right;padding-top:68px;}
+	#menu{height:50px;width:1338px;border:1px solid 3366CC;margin-top:2px;background-color:3366CC;}
+	#menu:hover{background-color:LightCoral;}
+		#menu1{height:48px;width:155px;border:0px solid red;float:left;}
+		#menu2{height:38px;width:106px;border:0px solid red;float:left;padding-left:60px;padding-top:10px;font-size:21px;color:white;}
+		#menu2  a{text-decoration:none;color:white;}
+		#menu2 a:hover{color:SlateBlue;}
+		#menu3{height:38px;width:126px;border:0px solid red;float:left;padding-left:40px;padding-top:10px;font-size:21px;color:white;}
+		#menu3  a{text-decoration:none;color:white;}
+		#menu3 a:hover{color:SlateBlue;}
+		#menu4{height:38px;width:126px;border:0px solid red;float:left;padding-left:40px;padding-top:10px;font-size:21px;color:white;}
+		#menu4  a{text-decoration:none;color:white;}
+		#menu4 a:hover{color:SlateBlue;}
+		#menu5{height:38px;width:121px;border:0px solid red;float:left;padding-left:45px;padding-top:10px;font-size:21px;color:white;}
+		#menu5  a{text-decoration:none;color:white;}
+		#menu5 a:hover{color:SlateBlue;}
+		#menu6{height:38px;width:136px;border:0px solid red;float:left;padding-left:30px;padding-top:10px;font-size:21px;color:white;}
+		#menu6  a{text-decoration:none;color:white;}
+		#menu6 a:hover{color:SlateBlue;}
+		#menu7{height:38px;width:160px;border:0px solid white;float:left;padding-left:35px;padding-top:10px;font-size:21px;color:white;}
+		#menu7  a{text-decoration:none;color:white;}
+		#menu7 a:hover{color:SlateBlue;}
+		#menu8{height:48px;width:140px;border:0px solid white;float:left;}
+	#sliderA{height:407px;width:1339px;border:0px solid white;margin-top:0px;}
+		#slider1{height:405px;width:250px;border:0px solid white;float:left;}
+			#slider11{height:204px;width:248px;border:1px solid white;float:left;background-color:Silver;}
+				#slider111{height:170px;width:248px;border:1px solid white;}
+				#slider112{height:30px;width:208px;border:1px solid white;color:Azure ;font-size:22px;padding-left:40px;padding-top:0px;background-color:Silver;}
+			#slider12{height:201px;width:248px;border:1px solid white;float:left;}
+				#slider121{height:165px;width:248px;border:1px solid white;background-color:Silver;}
+				#slider122{height:32px;width:218px;border:1px solid white;color:Azure ;font-size:22px;padding-left:30px;padding-top:0px;background-color:Silver;}
+		#slider2{height:405px;width:1085px;border:1px solid white;float:left;}
+	#down{height:380px;width:1335px;border:1px solid white;}
+		#down1{height:378px;width:248px;border:1px solid white;float:left;}
+			#down11{height:187px;width:246px;border:1px solid white;background-color:Silver;}
+				#down111{height:157px;width:245px;border:1px solid white;}
+				#down112{height:30px;width:205px;border:1px solid white;color:Azure;font-size:22px;padding-left:40px;}
+			#down12{height:189px;width:246px;border:1px solid white;background-color:Silver;}
+				#down121{height:156px;width:245px;border:1px solid white;}
+				#down122{height:30px;width:205px;border:1px solid white;color:Azure;font-size:22px;padding-left:40px;}
+		#down2{height:376px;width:1081px;border:2px solid white;float:right;background-color:003399;}
+			#down21{height:375px;width:828px;border:1px solid 003399;float:left;}
+				#down211{height:136px;width:828px;border:1px solid 003399;}
+						#down2111{height:114px;width:170px;border:1px solid 003399;float:left;padding-left:30px;padding-top:20px;}
+						#down2112{height:133px;width:623px;border:1px solid 003399;float:right;}
+							#down21121{height:56px;width:590px;border:1px solid 003399;color:Azure;font-size:20px;padding-left:30px;padding-top:10px;}
+							#down21122{height:66px;width:620px;border:1px solid 003399;color:Azure;font-size:17px;}
+				#down212{height:234px;width:787px;border:0px solid 003399;color:Azure;font-size:17px;padding-top:10px;padding-left:40px;}
+			#down22{height:337px;width:229px;border:2px solid DarkGray;float:right;color:Azure;padding-top:40px;padding-left:20px;font-size:17px;}
+	#footer{height:330px;width:1336px;border:1px solid white;float:left;}
+		#footer1{height:329px;width:250px;border:1px solid white;float:left;}
+			#footer11{height:162px;width:248px;border:1px solid white;background-color:Silver;}
+				#footer111{height:132px;width:247px;border:1px solid white;}
+				#footer112{height:30px;width:227px;border:1px solid white;color:Azure;font-size:22px;padding-left:20px;}
+			#footer12{height:163px;width:248px;border:1px solid white;background-color:Silver;}
+				#footer121{height:130px;width:247px;border:1px solid white;}
+				#footer122{height:30px;width:167px;border:1px solid white;color:Azure;font-size:22px;padding-left:80px;}
+		#footer2{height:330px;width:1082px;border:1px solid white;float:right;}
+			#footer21{height:298px;width:620px;border:1px solid white;float:left;color:grey;font-size:25px;padding-left:60px;padding-top:29px;}
+			#footer22{height:329px;width:398px;border:1px solid white;float:right;}
+	#image{height:307px;width:1337px;border:1px solid white;float:left;}
+		#image1{height:305px;width:250px;border:1px solid white;float:left;background-color:Silver;}
+			#image11{height:170px;width:208px;border:1px solid white;float:left;margin-left:20px;margin-top:20px;background-color:Gray;}
+				#image111{height:23px;width:180px;border:0px solid white;margin-left:10px;margin-top:12px;color:Azure;font-size:16px;padding-top:5px;}
+				#image112{height:41px;width:180px;border:0px solid white;margin-top:13px;margin-left:14px;}
+					input
+					{
+						width:170px;
+						height:45px;
+						border-radius:10px 10px 10px 10px;
+						background-color:Azure;
+						padding-left:10px;font-size:15px;
+					}
+				#image113{height:25px;width:180px;border:0px solid white;margin-top:15px;margin-left:10px;}
+					#image1131{height:22px;width:72px;border:0px solid white;float:left;}
+					#image1132{height:22px;width:103px;border:0px solid white;float:right;background-color:Azure;color:gray;}
+				#image114{height:20px;width:84px;border:0px solid white;margin-top:5px;margin-left:55px;color:white;font-size:18px;padding-left:66px;}
+			#image12{height:40px;width:190px;border:1px solid white;float:left;margin-top:10px;margin-left:28px;}
+			#image13{height:40px;width:190px;border:1px solid white;float:left;margin-top:10px;margin-left:28px;}
+		#image2{height:305px;width:1083px;border:1px solid white;float:right;background-color:white;}
+			#image21{height:305px;width:215px;border:0px solid white;float:left;}
+			#image211{height:170px;width:170px;border:0px solid;margin-top:70px;margin-left:25px;}
+			#image22{height:305px;width:215px;border:1px solid white;float:left;margin-left:0px;}
+			#image221{height:170px;width:170px;border:0px solid;margin-top:70px;margin-left:25px;}
+			#image23{height:305px;width:215px;border:0px solid white;float:left;margin-left:0px;}
+			#image231{height:170px;width:170px;border:0px solid;margin-top:70px;margin-left:25px;}
+			#image24{height:305px;width:215px;border:1px solid white;float:left;margin-left:0px;}
+			#image241{height:170px;width:170px;border:0px solid;margin-top:70px;margin-left:25px;}
+			#image25{height:305px;width:215px;border:0px solid white;float:left;margin-left:0px;}
+			#image251{height:170px;width:170px;border:0px solid;margin-top:70px;margin-left:25px;}
+	#Amenu{height:100px;width:1338px;border:1px solid white;float:left;}
+		#Amenu1{height:100px;width:470px;border:1px solid white;float:left;}
+			#Amenu11{height:78px;width:140px;border:1px solid white;float:left;padding-top:20px;padding-left:90px;}
+			#Amenu12{height:78px;width:186px;border:1px solid white;float:right;padding-top:20px;padding-left:50px;}
+		#Amenu2{height:97px;width:864px;border:1px solid white;float:right;}	
+			#Amenu21{height:50px;width:862px;border:1px solid white;float:left;}
+			#Amenu21:hover{background-color:LightCoral;}
+				#Amenu211{height:40px;width:110px;border:0px solid white;float:left;color:gray;font-size:20px;padding-left:60px;padding-top:10px;}
+				#Amenu211 a{text-decoration:none;color:Grey;}
+		#Amenu211 a:hover{color:SlateBlue;}
+				#Amenu212{height:40px;width:110px;border:0px solid white;float:left;color:gray;font-size:20px;padding-left:60px;padding-top:10px;}
+			#Amenu212 a{text-decoration:none;color:Grey;}
+		#Amenu212 a:hover{color:SlateBlue;}
+			
+			#Amenu213{height:40px;width:170px;border:0px solid white;float:left;color:gray;font-size:20px;padding-left:30px;padding-top:10px;}
+			#Amenu213 a{text-decoration:none;color:Grey;}
+		#Amenu213 a:hover{color:SlateBlue;}
+			
+			#Amenu214{height:40px;width:100px;border:0px solid white;float:left;color:gray;font-size:20px;padding-left:60px;padding-top:10px;}
+			#Amenu214 a{text-decoration:none;color:Grey;}
+		#Amenu214 a:hover{color:SlateBlue;}
+			#Amenu215{height:40px;width:112px;border:0px solid white;float:left;color:gray;font-size:20px;padding-left:40px;padding-top:10px;}
+			#Amenu215 a{text-decoration:none;color:Grey;}
+		#Amenu215 a:hover{color:SlateBlue;}
+			#Amenu22{height:45px;width:862px;border:1px solid white;float:left;}
+				#Amenu221{height:43px;width:648px;border:1px solid white;float:left;padding-top:0px;padding-left:0px;}
+				#Amenu222{height:43px;width:210px;border:1px solid white;float:right;}
+					#fb{height:43px;width:50px;border:1px solid white;float:left;}
+					#twe{height:43px;width:50px;border:1px solid white;float:right;}
+					#you{height:43px;width:50px;border:1px solid white;float:left;}
+					#link{height:43px;width:52px;border:1px solid 
+				white;float:left;}
+	#last{height:150px;width:1337px;border:1px solid white;float:left;background-color:Azure;}
+		#last1{height:120px;width:310px;border:1px solid white ;float:left;padding-top:30px;padding-left:40px;color:gray;}
+		#last2{height:120px;width:983px;border:1px solid white;float:right;padding-top:30px;color:gray;}
+	

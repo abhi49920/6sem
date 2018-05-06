@@ -1,0 +1,78 @@
+d
+{color:IndianRed;}
+d1
+{color:red;}
+d2
+{color:gold;}
+#outer
+{
+height:1205px;
+width:1000px;
+border:0px solid;
+margin:10px auto;
+background-image:url('11.jpg');
+}
+
+#header
+{
+height:200px;
+width:1000px;
+border:0px solid;
+
+}
+
+#header1
+{
+height:100px;
+width:250px;
+background-color:Violet;
+border:0px solid;
+padding:20px;
+margin:30px auto;
+}
+#mid1
+{
+height:1000px;
+width:280px;
+border:0px solid;
+float:left;
+margin-left:40px;
+}
+#mid2
+{
+height:1000px;
+width:280px;
+border:0px solid;
+float:left;
+margin-left:55px;
+}
+#mid3
+{
+height:1000px;
+width:300px;
+border:0px solid;
+float:right;
+margin-left:25px;
+}
+
+
+#menu1
+{
+height:6px;
+width:100px;
+border:1px solid;
+padding:45px;
+background-color:indigo;
+margin-up:10px;
+border-radius:20px 60px 30px 20px;
+}
+
+#menu2
+{
+height:20px;
+width:140px;
+border:1px solid;
+padding:10px;
+//margin:10px auto;
+background-color:maroon;
+}
